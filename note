@@ -1,0 +1,30 @@
+/* Mobile Small */
+@media screen and (max-width: 430px) {
+    /* styles for mobile small devices */
+    
+}
+
+/* Mobile */
+@media screen and (min-width: 431px) and (max-width: 576px) {
+    /* styles for mobile devices */
+}
+
+/* Tablet */
+@media screen and (min-width: 577px) and (max-width: 768px) {
+    /* styles for tablet devices */
+}
+
+/* Small Laptop */
+@media screen and (min-width: 769px) and (max-width: 992px) {
+    /* styles for small laptop screens */
+}
+
+/* Laptop */
+@media screen and (min-width: 992px) and (max-width: 1200px) {
+    /* styles for laptop screens */
+}
+
+/* Large Desktop */
+@media screen and (min-width: 1201px) {
+    /* styles for large desktop screens */
+}

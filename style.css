@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+:root{
+    --bg-color1: red;
+    --bg-color2: ;
+    --bg-color3: ;
+    --heading-color: ;
+    --text-color: ;
+    --hover-color: ;
+    --mobile-width: calc(100vw - 4px);
+    --tablet-width: calc(100vw - 8px);
+    --laptop-width: calc(100vw - 16px);
+    --desktop-width: calc(100vw - 2rem);
+    --mobile-h1-size: 1.75rem;
+    --mobile-h2-size: 1.25rem;
+    --mobile-p-size: 1rem ;
+    --mobile-line-height: 1.5;
+    --tablet-h1-size: 2rem;
+    --tablet-h2-size: 1.5rem;
+    --tablet-p-size: 1rem ;
+    --tablet-line-height: 1.5;
+    --laptop-h1-size: 2rem;
+    --laptop-h2-size: 1.75rem;
+    --laptop-p-size: 1.2rem ;
+    --laptop-line-height: 1.5;
+    --desktop-h1-size: 3rem;
+    --desktop-h2-size: 2rem;
+    --desktop-p-size: 1.5rem ;
+    --desktop-line-height: 1.5;
+}
